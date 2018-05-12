@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6986'
     url: http://www.gutenberg.org/2009/agents/6986
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16868#Adventures-of-a-Despatch-Rider
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-10-14'
 gutenberg_type: Text
